@@ -1,4 +1,18 @@
-### Hi there 👋
+### 👋 Hey, I'm Lucas Siqueira!
+
+🇧🇷 Brazilian 
+
+🎂 26 Years 
+
+☕ I Drink Coffee
+
+
+👨‍💻 What I'm working on Currently working with B4X, PHP, ADVPL, MySQL, SQLServer, SQLite, VBA and JS.
+
+💰[Buy me a coffee](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B4CLAD34J9GTQ&source=url), if you found it useful.
+
+
+
 
 <!--
 **siqueirabt/siqueirabt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
